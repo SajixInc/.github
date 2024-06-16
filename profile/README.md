@@ -125,10 +125,10 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com): <img src="https:
     
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-org-participants-growth?owner_id=11855343&activity=active&period=past_28_days" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-contributors?limit=200&repo_id=547111870" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?owner_id=11855343&activity=active&period=past_28_days&image_size=4x7&color_scheme=dark" width="657" height="auto">
-    <img alt="Active trends of pingcap" src="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?owner_id=11855343&activity=active&period=past_28_days&image_size=4x7&color_scheme=light" width="657" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-contributors/thumbnail.png?limit=200&repo_id=547111870&image_size=auto&color_scheme=dark" width="655" height="auto">
+    <img alt="Contributors of SajixInc/tech-community" src="https://next.ossinsight.io/widgets/official/compose-contributors/thumbnail.png?limit=200&repo_id=547111870&image_size=auto&color_scheme=light" width="655" height="auto">
   </picture>
 </a>
 
@@ -136,22 +136,12 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com): <img src="https:
 
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking?owner_id=11855343&activity=participants&period=past_28_days" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=547111870" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking/thumbnail.png?owner_id=11855343&activity=participants&period=past_28_days&image_size=4x3&color_scheme=dark" width="273" height="auto">
-    <img alt="Active participants of pingcap" src="https://next.ossinsight.io/widgets/official/compose-org-activity-new-ranking/thumbnail.png?owner_id=11855343&activity=participants&period=past_28_days&image_size=4x3&color_scheme=light" width="273" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=547111870&image_size=auto&color_scheme=dark" width="815" height="auto">
+    <img alt="Activity Trends of SajixInc/tech-community - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=547111870&image_size=auto&color_scheme=light" width="815" height="auto">
   </picture>
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-org-activity-action-top-repos?owner_id=11855343&activity=issues%2Fissue-comments&period=past_28_days" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-org-activity-action-top-repos/thumbnail.png?owner_id=11855343&activity=issues%2Fissue-comments&period=past_28_days&image_size=3x6&color_scheme=dark" width="561" height="auto">
-    <img alt="Which Repositories Are Actively Engaged in Issue Discussions?" src="https://next.ossinsight.io/widgets/official/analyze-org-activity-action-top-repos/thumbnail.png?owner_id=11855343&activity=issues%2Fissue-comments&period=past_28_days&image_size=3x6&color_scheme=light" width="561" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
