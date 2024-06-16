@@ -33,8 +33,10 @@ At the forefront of revolutionizing healthcare technology, committed to building
 
 🧙 Product
 
+* [iHelix](https://www.sajix.com)
 * [Lifeeazy](https://www.sajix.com)
 * [Lifeeazy Pro](https://www.sajix.com)
+
 
 🌈 Contribution guidelines - We love your input! We want to make contributing to [Tech-Stack Connect Program](https://github.com/orgs/SajixInc/discussions) as easy and transparent as possible, whether it's:
 
